@@ -51,9 +51,9 @@ void setup()
     lcd.setCursor(0,1);
     lcd.print("Fabulous");
     lcd.setCursor(0,2);
-    lcd.print("Sabrinequinha");
+    lcd.print("Line 3");
     lcd.setCursor(0,3);
-    lcd.print("Nathanzitos");    
+    lcd.print("Line 4");    
     
     Serial.begin(9600);
 }
